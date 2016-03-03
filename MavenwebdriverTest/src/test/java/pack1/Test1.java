@@ -10,6 +10,7 @@ public class Test1 {
 	public void test1()
 	{
 		System.out.println("I am in first method first package");
+		WebDriver driver=new FirefoxDriver();
 	}
 	
 	@Test
